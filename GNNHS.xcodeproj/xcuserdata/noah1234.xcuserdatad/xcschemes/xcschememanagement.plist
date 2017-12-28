@@ -4,14 +4,39 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>GNN.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>GNNHS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Glance - GNN.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Notification - GNN.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ScheduleWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>710488051DA874ED00547A9C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>7143C3D81BE8F7F400391156</key>
 		<dict>
 			<key>primary</key>
@@ -23,6 +48,16 @@
 			<true/>
 		</dict>
 		<key>7143C3F71BE8F7F500391156</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7152C4401DAA807D007429E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7176DE891BEEB94C00D4F351</key>
 		<dict>
 			<key>primary</key>
 			<true/>
